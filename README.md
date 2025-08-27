@@ -1,6 +1,9 @@
 # Hello, I'm Khánh Duy
 Welcome to my GitHud account
 
+I'm font-end development
+My hoppies is playing football, photography and coding
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1ScmEXBRy1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fphankdzi_21.12%3Figsh%3DMW9pYm45MWd5ZzYyeg%253D%253D%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBEwbGJ1azI2SWxtYXZrQnYyagEe8Tk40nAna28M7q3zKT7WB5WwKJTxCwVJ6z0wnx0kTHOJM8zVvQVVtbFQHE8_aem_kSKeyMxJPhs8rfYBsZaRrA&h=AT11ZnOCp9PR_8nWmbjK2T25j6ecpu8RBWEkuGeImoCQ6pDK288LJziOnakYRdwggLSpztmnYPcBkPGfoiKyaavtX9uh5GJ2ha8tiDE2v1vHWNDSbJkxWqv00VyLPraebnBAYji5q6auWHEK8wbSgg) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fpin.it%2FkUcZw5x8Z%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBEwbGJ1azI2SWxtYXZrQnYyagEeL-8SAJd7iCqncT9jesB4a_L72TMJclg8BfcYy5m3GkA0sG57UhQ33xPHGC0_aem_sGncqwV3XROjeLNW9F058A&h=AT35ZrLWXGd2sI5lKInoCkqDJj-NybDV8obEKmcZEOfyVVRs6HuuR5UwgdQo1k1RJ5_LFqDbZkW1vBzXZAizo7JlqshGrYWRMP8L2JlM94CpFag35IXimll_e64iisZGHSb_VZ8n-qFxBti_RAPyJg) 
 
