@@ -1,7 +1,7 @@
 # Hello, I'm Khánh Duy
 Welcome to my GitHud account
 
-I'm font-end development
+I'm front-end development </br>
 My hoppies is playing football, photography and coding
 
 ## 🌐Socials
