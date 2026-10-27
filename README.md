@@ -1,4 +1,4 @@
-# Hello, I'm Khánh Duy
+# Hi 👋, I'm Phan Khánh Duy
 Welcome to my GitHud account
 
 I'm web developer </br>
