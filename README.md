@@ -1,7 +1,8 @@
 # Hello, I'm Khánh Duy
 Welcome to my GitHud account
 
-I'm front-end developer </br>
+I'm web developer </br>
+I have an interest in designing and developing interfaces and frontend </br>
 My hoppies is playing football, photography and coding
 
 <h3 align="center">A passionate frontend developer from VietNam</h3>
