@@ -2,21 +2,18 @@ name: WakaTime Stats Update
 
 on:
   schedule:
-    # Chạy tự động vào 00:00 UTC mỗi ngày
     - cron: '0 0 * * *'
-  workflow_dispatch: # Cho phép bấm chạy thủ công
+  workflow_dispatch:
 
 jobs:
   update-readme-with-wakatime:
     name: Update README with WakaTime
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
           SHOW_TOTAL_CODE_TIME: "true"
