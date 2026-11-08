@@ -31,3 +31,6 @@ My hoppies is playing football, photography and coding
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
