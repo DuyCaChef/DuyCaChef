@@ -1,0 +1,25 @@
+name: WakaTime Stats Update
+
+on:
+  schedule:
+    # Tự động chạy vào 00:00 UTC mỗi ngày (khoảng 07:00 sáng giờ Việt Nam)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Cho phép bạn bấm nút chạy thủ công bất cứ lúc nào
+
+jobs:
+  update-readme-with-wakatime:
+    name: Update README with WakaTime
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_OS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_TIME: "true"
+          SHOW_LANGUAGE_PER_REPO: "true"
+          SHOW_SHORT_INFO: "true"
+          LOCALE: "en"
