@@ -40,9 +40,9 @@ My hoppies is playing football, photography and coding
 
 **🐱 My GitHub Data** 
 
-> 📦 126.7 kB Used in GitHub's Storage 
+> 📦 126.8 kB Used in GitHub's Storage 
  > 
-> 🏆 388 Contributions in the Year 2026
+> 🏆 392 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ My hoppies is playing football, photography and coding
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                354 commits         ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-🌆 Daytime                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-🌃 Evening                140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-🌙 Night                  596 commits         █████████████░░░░░░░░░░░░   50.42 % 
+🌞 Morning                355 commits         ███████░░░░░░░░░░░░░░░░░░   29.83 % 
+🌆 Daytime                92 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌃 Evening                147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+🌙 Night                  596 commits         █████████████░░░░░░░░░░░░   50.08 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Tuesday                  244 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Wednesday                198 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Thursday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Friday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Saturday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Sunday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Monday                   171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Tuesday                  244 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Wednesday                198 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+Thursday                 119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Friday                   186 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Saturday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Sunday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 ```
 
 
@@ -141,6 +141,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DuyCaChef/DuyCaChef/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 13:09:42 UTC
+ Last Updated on 09/11/2026 03:19:47 UTC
 <!--END_SECTION:waka-->
 
