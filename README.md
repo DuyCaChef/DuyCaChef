@@ -32,7 +32,7 @@ My hoppies is playing football, photography and coding
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2047%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2044%20mins-blue?style=flat)
 
@@ -42,7 +42,7 @@ My hoppies is playing football, photography and coding
 
 > 📦 127.9 kB Used in GitHub's Storage 
  > 
-> 🏆 408 Contributions in the Year 2026
+> 🏆 409 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +53,21 @@ My hoppies is playing football, photography and coding
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                385 commits         ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌆 Daytime                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-🌃 Evening                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-🌙 Night                  672 commits         █████████████░░░░░░░░░░░░   50.68 % 
+🌞 Morning                386 commits         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+🌆 Daytime                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+🌃 Evening                175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+🌙 Night                  672 commits         █████████████░░░░░░░░░░░░   50.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Tuesday                  261 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Wednesday                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Thursday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Friday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Sunday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Monday                   193 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Tuesday                  262 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+Wednesday                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Thursday                 135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Friday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Saturday                 138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+Sunday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 ```
 
 
@@ -77,51 +77,51 @@ Sunday                   189 commits         ████░░░░░░░�
 🕑︎ Time Zone: America/Denver
 
 💬 Programming Languages: 
-TypeScript               7 hrs 7 mins        ████████████████░░░░░░░░░   65.58 % 
-PHP                      1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Blade Template           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+TypeScript               6 hrs 20 mins       ██████████████░░░░░░░░░░░   56.06 % 
+PHP                      2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Blade Template           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       ███████████████░░░░░░░░░░   58.81 % 
-Antigravity IDE          2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Copilot CLI              1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Antigravity Desktop      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  6 hrs 2 mins        █████████████░░░░░░░░░░░░   53.35 % 
+Antigravity IDE          2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Copilot CLI              1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Antigravity Desktop      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Copilot                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🐱‍💻 Projects: 
-university-recruitment-cr7 hrs 55 mins       ██████████████████░░░░░░░   73.01 % 
-AGU-Academic-Hub         1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-larashop                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-lung-lesion-segmentation 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+university-recruitment-cr7 hrs 8 mins        ████████████████░░░░░░░░░   63.07 % 
+AGU-Academic-Hub         2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+larashop                 1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+lung-lesion-segmentation 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (31.33%)
+⏱ AI Coding Time: 4 hrs 36 mins (40.75%)
 
-✍️ 765 lines written by AI, 2,671 lines written by hand (22.26% AI-written)
+✍️ 908 lines written by AI, 2,504 lines written by hand (26.61% AI-written)
 
-🔤 1,234,118 Input Tokens, 453,517 Output Tokens
+🔤 5,050,715 Input Tokens, 2,152,505 Output Tokens
 
-💵 $15.65 Estimated AI Cost This Week
+💵 $21.27 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 33 AI Prompts
+🧠 7 AI Sessions, 24 AI Prompts
 
-GPT                      1,061 lines         ████████████████████████░   95.24 % 
-Gemini                   53 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+GPT                      1,229 lines         ████████████████████████░   95.87 % 
+Gemini                   53 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 22.26% of written lines came from AI
-📝 Concise Prompter — average 438 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 79.55% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 26.61% of written lines came from AI
+📄 Detailed Prompter — average 685 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 74.93% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,6 +141,6 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DuyCaChef/DuyCaChef/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 05:28:43 UTC
+ Last Updated on 18/11/2026 04:55:28 UTC
 <!--END_SECTION:waka-->
 
